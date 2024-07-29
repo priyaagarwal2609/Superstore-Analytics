@@ -4,18 +4,15 @@
 
 The Superstore Analytics Dashboard provides a comprehensive overview of the store's performance across different categories and time frames. It helps the regional managers to understand their customers better. Here's a detailed summary based on the provided dashboard:
 
-#### Role-level Security
-
-A dynamic role-level security model has been implemented to restrict data visibility within the dashboard. This ensures that managers only see data pertinent to their assigned territories. Additionally, an admin role has been created with access to data across all regions.
-
-![image](https://github.com/user-attachments/assets/d18219f5-867d-460c-820a-29ed141b45d0)
-
-
 ### 1) SUMMARY PAGE
 
 The summary page consolidates high-level KPI information, allowing managers to view critical metrics at a glance. These metrics are filtered based on the selected period and values in the slicers (Year, Customer Type, Product Type, Location, Month, Quarter).
 
 ![image](https://github.com/user-attachments/assets/a2eaa665-1085-470b-9f1f-8d27be69b61c)
+
+#### Role-level Security
+
+A dynamic role-level security model has been implemented to restrict data visibility within the dashboard. This ensures that managers only see data pertinent to their assigned territories. Additionally, an admin role has been created with access to data across all regions.
 
 #### Key Metrics:
 
